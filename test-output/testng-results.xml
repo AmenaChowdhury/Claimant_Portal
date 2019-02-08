@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23607" started-at="2019-02-08T07:26:19Z" finished-at="2019-02-08T07:26:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23607" started-at="2019-02-08T07:26:19Z" finished-at="2019-02-08T07:26:43Z">
+      <class name="regressionTest.UpdateInfoTest">
+        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:regressionTest.UpdateInfoTest@50d0686]" name="initializeDriver" is-config="true" duration-ms="3329" started-at="2019-02-08T07:26:19Z" finished-at="2019-02-08T07:26:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method status="PASS" signature="updateInfo()[pri:0, instance:regressionTest.UpdateInfoTest@50d0686]" name="updateInfo" duration-ms="20115" started-at="2019-02-08T07:26:22Z" finished-at="2019-02-08T07:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateInfo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:regressionTest.UpdateInfoTest@50d0686]" name="tearDown" is-config="true" duration-ms="115" started-at="2019-02-08T07:26:43Z" finished-at="2019-02-08T07:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- regressionTest.UpdateInfoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
